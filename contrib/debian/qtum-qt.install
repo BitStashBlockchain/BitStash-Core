@@ -1,0 +1,6 @@
+usr/local/bin/bitstash-qt usr/bin
+share/pixmaps/bitstash32.xpm usr/share/pixmaps
+share/pixmaps/bitstash16.xpm usr/share/pixmaps
+share/pixmaps/bitstash128.png usr/share/pixmaps
+debian/bitstash-qt.desktop usr/share/applications
+debian/bitstash-qt.protocol usr/share/kde4/services/
