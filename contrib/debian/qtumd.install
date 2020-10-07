@@ -1,0 +1,2 @@
+usr/local/bin/bitstashd usr/bin
+usr/local/bin/bitstash-cli usr/bin

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.17.6
+Name=BitStash Core Testnet
+Comment=Connect to the BitStash P2P Network Testnet
+Exec=bitstash-qt -testnet %u
+Terminal=false
+Type=Application
+Icon=bitstashtestnet128
+MimeType=x-scheme-handler/bitstash;
+Categories=Network;
+StartupWMClass=BitStash-qt-testnet
+Name[en_US]=bitstash-qt-testnet
